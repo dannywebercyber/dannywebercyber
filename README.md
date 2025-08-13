@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home SOC + SIEM Project</b>
-  - [Monitoring Live Attacks Using Microsoft Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Monitoring Live Attacks Using Microsoft Sentinel](https://github.com/dannywebercyber/SOCsimulator)
 
 <h2>📺 Popular YouTube Videos</h2>
 
